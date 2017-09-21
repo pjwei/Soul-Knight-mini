@@ -1,7 +1,7 @@
 /*
 *    Soul Knight Project
 *	 Team production only for study and communication.
-*	 Team member: Pengjin Wei, Qi Shao, Zefan Lu, Hhengjie Zhang.
+*	 Team member: Pengjin Wei, Qi Shao.
 *    This file was created by Pengjin Wei on 6/5/2017.
 */
 
